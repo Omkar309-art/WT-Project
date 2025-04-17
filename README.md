@@ -36,11 +36,3 @@ A comprehensive Business Management System (BMS) designed to streamline and auto
 - REST API / GraphQL *(if used)*
 
 ---
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/business-management-system.git
-cd business-management-system
